@@ -10,6 +10,8 @@ package patternprogs;
 
 
 */
+
+//kdljjdl test comment 
 public class P05
 {
 	public static void main(String args[])
