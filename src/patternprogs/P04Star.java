@@ -26,7 +26,7 @@ public class P04Star
 			
 			
 			
-			
+			//just added test comment
 			
 			System.out.println();
 		}
